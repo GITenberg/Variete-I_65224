@@ -1,0 +1,24 @@
+_repo: Variete-I_65224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valéry, Paul
+    alias: Valery, Paul
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '49451'
+    url: http://www.gutenberg.org/2009/agents/49451
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry
+description: ''
+gutenberg_issued: '2021-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65224'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Variété I
+url: http://www.gutenberg.org/ebooks/65224
