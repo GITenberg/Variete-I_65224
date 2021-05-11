@@ -1,5 +1,8 @@
 _repo: Variete-I_65224
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65224-h/images/cover.jpg
 creator:
   author:
     agent_name: Valéry, Paul
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49451
     wikipedia: https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65224#Variete-I
 gutenberg_issued: '2021-05-02'
 gutenberg_type: Text
 identifiers:
